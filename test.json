@@ -1,0 +1,14 @@
+{
+    "test5": true,
+    "test0": 1.5,
+    "test1": "harry",
+    "test2": {
+        "test3": "harry"
+    },
+    "test4": [
+        "Kaas",
+        {
+            "test5": "kaas"
+        }
+    ]
+}
